@@ -1,4 +1,4 @@
-/*4. Napisati rekurzivnu funkciju za traženje najveæeg i najmanjeg broja u nizu.
+//4. Napisati rekurzivnu funkciju za traženje najveæeg i najmanjeg broja u nizu.
 #include<iostream>
 int funkcija(int* arr, int l, int* min, int* max)
 {
@@ -19,4 +19,4 @@ int main()
 	funkcija(arr,l-1, &min, &max);
 	std::cout << "najmanji broj je-- >" << min << std::endl;
 	std::cout << "najveci broj je --> " << max;
-}*/
+}

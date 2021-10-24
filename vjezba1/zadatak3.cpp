@@ -1,4 +1,4 @@
-/*3.Napisati iterativnu funkciju za traženje najveæeg i najmanjeg broja u nizu.
+//3.Napisati iterativnu funkciju za traženje najveæeg i najmanjeg broja u nizu.
 
 #include<iostream>
 using namespace std;
@@ -19,4 +19,4 @@ int main()
 	min_max(arr, n, &min, &max);
 	cout << "smallest number is: " << min << endl;
 	cout << "biggest number is: " << max << endl;
-}*/
+}

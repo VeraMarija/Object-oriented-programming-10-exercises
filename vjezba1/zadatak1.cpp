@@ -1,4 +1,4 @@
-/*1. Unesite sljedeæi program i modificirajte ga testirajuæi gornje manipulatore.
+//1. Unesite sljedeæi program i modificirajte ga testirajuæi gornje manipulatore.
 #include <iostream>
 #include <iomanip>
 int main()
@@ -17,4 +17,4 @@ int main()
 	std::cout << "c = " << std::scientific;
 	std::cout << std::setprecision(5) << std::setw(5);
 	std::cout << c << std::endl;
-}*/
+}
